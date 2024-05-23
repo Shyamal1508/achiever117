@@ -1,3 +1,4 @@
+![logo](https://github.com/achiever117/achiever117/blob/main/1.jpg )
 <h1 align="center">Hi 👋, I'm Shyamal Malhotra</h1>
 <h3 align="center">A passionate learner in Data Scientist Field</h3>
 <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" align="left" width="400" alt="coder">
